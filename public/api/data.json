@@ -7,7 +7,8 @@
     "slug": "Handcrafted-Trees-Mug",
     "added": 1485723766805,
     "manufacturer": "OHara-Group",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/1.jpg"
   },
   {
     "tags": ["Beach", "Ocean", "Water"],
@@ -17,7 +18,8 @@
     "slug": "Rustic-Beach-Mug",
     "added": 1481573896833,
     "manufacturer": "Sipes-Inc",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/2.jpg"
   },
   {
     "tags": ["Animal", "Bear"],
@@ -27,7 +29,8 @@
     "slug": "Handcrafted-Bear-Mug",
     "added": 1485991071829,
     "manufacturer": "Weissnat-Schowalter-and-Koelpin",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/3.jpg"
   },
   {
     "tags": ["Road"],
@@ -37,7 +40,8 @@
     "slug": "Refined-Road-Mug",
     "added": 1482213983048,
     "manufacturer": "Bernier-Hane",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/4.jpg"
   },
   {
     "tags": ["Ocean", "Rocks"],
@@ -47,7 +51,8 @@
     "slug": "Unbranded-Ocean-Mug",
     "added": 1483408192004,
     "manufacturer": "Franecki---Gaylord",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/5.jpg"
   },
   {
     "tags": ["Sunset", "Beach", "Ocean"],
@@ -57,7 +62,8 @@
     "slug": "Rustic-Ocean-Mug",
     "added": 1485511118573,
     "manufacturer": "Bayer-and-Sons",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/6.jpg"
   },
   {
     "tags": ["Rust", "Old", "Car"],
@@ -67,7 +73,8 @@
     "slug": "Sleek-Old-Mug",
     "added": 1485759837725,
     "manufacturer": "Boyle-LLC",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/7.jpg"
   },
   {
     "tags": ["Coffee"],
@@ -77,7 +84,8 @@
     "slug": "Sleek-Coffee-Mug",
     "added": 1479259996312,
     "manufacturer": "Franecki---Gaylord",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/8.jpg"
   },
   {
     "tags": ["Trees", "Fog", "People"],
@@ -87,7 +95,8 @@
     "slug": "Rustic-Trees-Mug",
     "added": 1480664800826,
     "manufacturer": "Weissnat-Schowalter-and-Koelpin",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/9.jpg"
   },
   {
     "tags": ["Sunset", "Ocean", "Dock"],
@@ -97,7 +106,8 @@
     "slug": "Sleek-Ocean-Mug",
     "added": 1485278625462,
     "manufacturer": "Cruickshank-Bayer-and-Gerlach",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/10.jpg"
   },
   {
     "tags": ["Person", "Hills", "Animals", "Sheep"],
@@ -107,7 +117,8 @@
     "slug": "Ergonomic-Person-Mug",
     "added": 1485835498313,
     "manufacturer": "Rice-Inc",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/11.jpg"
   },
   {
     "tags": ["Fog", "Lake", "Water"],
@@ -117,7 +128,8 @@
     "slug": "Gorgeous-Water-Mug",
     "added": 1485880263998,
     "manufacturer": "Boyle-LLC",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/12.jpg"
   },
   {
     "tags": ["Person", "Fog"],
@@ -127,7 +139,8 @@
     "slug": "Generic-Fog-Mug",
     "added": 1484633915311,
     "manufacturer": "McCullough---Lueilwitz",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/9.jpg"
   },
   {
     "tags": ["Building", "Metal"],
@@ -137,7 +150,8 @@
     "slug": "Gorgeous-Building-Mug",
     "added": 1482336621275,
     "manufacturer": "Sipes-Inc",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/13.jpg"
   },
   {
     "tags": ["Sunset", "Person", "Woman", "Meadow"],
@@ -147,7 +161,8 @@
     "slug": "Intelligent-Sunset-Mug",
     "added": 1484735389245,
     "manufacturer": "Bernier-Hane",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/14.jpg"
   },
   {
     "tags": ["Person", "Coffee"],
@@ -157,7 +172,8 @@
     "slug": "Unbranded-Coffee-Mug",
     "added": 1484144067274,
     "manufacturer": "Lowe-Wunsch-and-Stoltenberg",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/15.jpg"
   },
   {
     "tags": ["Trees", "Road"],
@@ -167,7 +183,8 @@
     "slug": "Rustic-Road-Mug",
     "added": 1480653821277,
     "manufacturer": "Metz---Kautzer",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/16.jpg"
   },
   {
     "tags": ["Windows", "Architecture", "Building"],
@@ -177,7 +194,8 @@
     "slug": "Sleek-Building-Mug",
     "added": 1478843419299,
     "manufacturer": "Feil-Dooley-and-Reinger",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/1.jpg"
   },
   {
     "tags": ["House", "Trees", "Fog", "Secluded"],
@@ -187,7 +205,8 @@
     "slug": "Tasty-Secluded-Mug",
     "added": 1482236584965,
     "manufacturer": "Konopelski-Group",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/2.jpg"
   },
   {
     "tags": ["Architecture", "Wall"],
@@ -197,7 +216,8 @@
     "slug": "Ergonomic-Architecture-Mug",
     "added": 1484099772336,
     "manufacturer": "Franecki---Gaylord",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/3.jpg"
   },
   {
     "tags": ["Surf", "Ocean", "Waves"],
@@ -207,7 +227,8 @@
     "slug": "Intelligent-Waves-Mug",
     "added": 1481166939534,
     "manufacturer": "Metz---Kautzer",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/4.jpg"
   },
   {
     "tags": ["Bike", "City", "People"],
@@ -217,7 +238,8 @@
     "slug": "Intelligent-City-Mug",
     "added": 1478209012932,
     "manufacturer": "Weissnat-Schowalter-and-Koelpin",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/5.jpg"
   },
   {
     "tags": ["Sky", "Fog"],
@@ -227,7 +249,8 @@
     "slug": "Refined-Sky-Mug",
     "added": 1481150082814,
     "manufacturer": "Konopelski-Group",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/6.jpg"
   },
   {
     "tags": ["Rust", "Machine", "Car"],
@@ -237,7 +260,8 @@
     "slug": "Incredible-Car-Mug",
     "added": 1484684041316,
     "manufacturer": "Boyle-LLC",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/7.jpg"
   },
   {
     "tags": ["Animal", "Fur", "Monkey"],
@@ -247,7 +271,8 @@
     "slug": "Gorgeous-Animal-Mug",
     "added": 1481333026774,
     "manufacturer": "Hodkiewicz-Inc",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/9.jpg"
   },
   {
     "tags": ["Machine", "Ocean"],
@@ -257,7 +282,8 @@
     "slug": "Ergonomic-Machine-Mug",
     "added": 1481307879405,
     "manufacturer": "Nikolaus-Schinner",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/8.jpg"
   },
   {
     "tags": ["Planes", "Sun", "Clouds"],
@@ -267,7 +293,8 @@
     "slug": "Licensed-Clouds-Mug",
     "added": 1481505340969,
     "manufacturer": "Boyle-LLC",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/10.jpg"
   },
   {
     "tags": ["Beach", "Television", "Tv"],
@@ -277,7 +304,8 @@
     "slug": "Awesome-Television-Mug",
     "added": 1483267004259,
     "manufacturer": "Dickens-Franecki",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/11.jpg"
   },
   {
     "tags": ["Grass", "Meadow", "Plants"],
@@ -287,7 +315,8 @@
     "slug": "Fantastic-Grass-Mug",
     "added": 1483834365140,
     "manufacturer": "Boyle-LLC",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/12.jpg"
   },
   {
     "tags": ["People"],
@@ -297,7 +326,8 @@
     "slug": "Refined-People-Mug",
     "added": 1482852590065,
     "manufacturer": "Bayer-and-Sons",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/13.jpg"
   },
   {
     "tags": ["Beach", "Ocean"],
@@ -307,7 +337,8 @@
     "slug": "Practical-Beach-Mug",
     "added": 1483847156817,
     "manufacturer": "Hodkiewicz-Inc",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/14.jpg"
   },
   {
     "tags": ["American", "Sky", "Patriotic", "Flag"],
@@ -317,7 +348,8 @@
     "slug": "Intelligent-Patriotic-Mug",
     "added": 1479597182568,
     "manufacturer": "Bayer-and-Sons",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/15.jpg"
   },
   {
     "tags": ["Desk", "Office", "Wood"],
@@ -327,7 +359,8 @@
     "slug": "Unbranded-Office-Mug",
     "added": 1481770180832,
     "manufacturer": "Lowe-Wunsch-and-Stoltenberg",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/16.jpg"
   },
   {
     "tags": ["City", "Building"],
@@ -337,7 +370,8 @@
     "slug": "Awesome-City-Mug",
     "added": 1479130102615,
     "manufacturer": "Oberbrunner-Block-and-Mills",
-    "itemType": "mug"
+    "itemType": "mug",
+    "image": "./images/6.jpg"
   },
   {
     "tags": ["Mugs", "Coffee", "Wood"],
