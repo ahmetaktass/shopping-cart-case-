@@ -25,6 +25,10 @@ module.exports = {
         '225px': '225px',
         '750px': '750px',
       },
+      lineHeight: {
+        'extra-loose': '2.5',
+        '18': '18px',
+      },
     },
   },
   variants: {

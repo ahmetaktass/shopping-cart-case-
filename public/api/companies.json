@@ -1,7 +1,7 @@
 [
   {
-    "slug": "Dickens-Franecki",
-    "name": "Dickens - Franecki",
+    "value": "Dickens-Franecki",
+    "label": "Dickens - Franecki",
     "address": "12158 Randall Port",
     "city": "East Maureenbury",
     "state": "NE",
@@ -10,8 +10,8 @@
     "contact": "Lonzo Stracke"
   },
   {
-    "slug": "Weissnat-Schowalter-and-Koelpin",
-    "name": "Weissnat, Schowalter and Koelpin",
+    "value": "Weissnat-Schowalter-and-Koelpin",
+    "label": "Weissnat, Schowalter and Koelpin",
     "address": "92027 Murphy Cove",
     "city": "Port Malachi",
     "state": "WY",
@@ -20,8 +20,8 @@
     "contact": "Kathryne Ernser"
   },
   {
-    "slug": "Cruickshank-Bayer-and-Gerlach",
-    "name": "Cruickshank, Bayer and Gerlach",
+    "value": "Cruickshank-Bayer-and-Gerlach",
+    "label": "Cruickshank, Bayer and Gerlach",
     "address": "45974 Paxton Corner",
     "city": "Gerlachmouth",
     "state": "OR",
@@ -30,8 +30,8 @@
     "contact": "Bernhard Greenholt"
   },
   {
-    "slug": "Boyle-LLC",
-    "name": "Boyle LLC",
+    "value": "Boyle-LLC",
+    "label": "Boyle LLC",
     "address": "54371 Mikel Spurs",
     "city": "South Josephland",
     "state": "SD",
@@ -40,8 +40,8 @@
     "contact": "Roxanne Walsh"
   },
   {
-    "slug": "Bernier-Hane",
-    "name": "Bernier - Hane",
+    "value": "Bernier-Hane",
+    "label": "Bernier - Hane",
     "address": "45929 Chaya Lane",
     "city": "Hettingerchester",
     "state": "GA",
@@ -50,8 +50,8 @@
     "contact": "Thea Gleichner"
   },
   {
-    "slug": "OHara-Group",
-    "name": "O'Hara Group",
+    "value": "OHara-Group",
+    "label": "O'Hara Group",
     "address": "582 Metz Harbor",
     "city": "North Columbus",
     "state": "HI",
@@ -60,8 +60,8 @@
     "contact": "Madalyn Prohaska"
   },
   {
-    "slug": "Bayer-and-Sons",
-    "name": "Bayer and Sons",
+    "value": "Bayer-and-Sons",
+    "label": "Bayer and Sons",
     "address": "1577 Waters Alley",
     "city": "New Sabrinahaven",
     "state": "AR",
@@ -70,8 +70,8 @@
     "contact": "Buck Hickle"
   },
   {
-    "slug": "Leannon-Fahey-and-Sawayn",
-    "name": "Leannon, Fahey and Sawayn",
+    "value": "Leannon-Fahey-and-Sawayn",
+    "label": "Leannon, Fahey and Sawayn",
     "address": "3710 Lew Walk",
     "city": "Baileybury",
     "state": "NJ",
@@ -80,8 +80,8 @@
     "contact": "Patience Block"
   },
   {
-    "slug": "Lowe-Wunsch-and-Stoltenberg",
-    "name": "Lowe, Wunsch and Stoltenberg",
+    "value": "Lowe-Wunsch-and-Stoltenberg",
+    "label": "Lowe, Wunsch and Stoltenberg",
     "address": "93936 Barrows Dale",
     "city": "Lake Guido",
     "state": "AZ",
@@ -90,8 +90,8 @@
     "contact": "Pietro Gerlach"
   },
   {
-    "slug": "Hodkiewicz-Inc",
-    "name": "Hodkiewicz Inc",
+    "value": "Hodkiewicz-Inc",
+    "label": "Hodkiewicz Inc",
     "address": "45516 Ruben Cove",
     "city": "Greenberg",
     "state": "SC",
@@ -100,8 +100,8 @@
     "contact": "Coleman Walter"
   },
   {
-    "slug": "Konopelski-Inc",
-    "name": "Konopelski Inc",
+    "value": "Konopelski-Inc",
+    "label": "Konopelski Inc",
     "address": "81835 Willms Drive",
     "city": "Harrisonton",
     "state": "MN",
@@ -110,8 +110,8 @@
     "contact": "Tyson Crona"
   },
   {
-    "slug": "Nikolaus-Schinner",
-    "name": "Nikolaus - Schinner",
+    "value": "Nikolaus-Schinner",
+    "label": "Nikolaus - Schinner",
     "address": "04914 Heaney Turnpike",
     "city": "Franeckiside",
     "state": "VA",
@@ -120,8 +120,8 @@
     "contact": "Caleigh Block"
   },
   {
-    "slug": "Sipes-Inc",
-    "name": "Sipes Inc",
+    "value": "Sipes-Inc",
+    "label": "Sipes Inc",
     "address": "3190 Braun Rue",
     "city": "Lake Adalbertoberg",
     "state": "NY",
@@ -130,8 +130,8 @@
     "contact": "Green Schuster"
   },
   {
-    "slug": "McCullough---Lueilwitz",
-    "name": "McCullough - Lueilwitz",
+    "value": "McCullough---Lueilwitz",
+    "label": "McCullough - Lueilwitz",
     "address": "8863 Osinski Views",
     "city": "West Rachel",
     "state": "SD",
@@ -140,8 +140,8 @@
     "contact": "Pasquale Parisian"
   },
   {
-    "slug": "Heathcote-Kautzer-and-Turner",
-    "name": "Heathcote, Kautzer and Turner",
+    "value": "Heathcote-Kautzer-and-Turner",
+    "label": "Heathcote, Kautzer and Turner",
     "address": "3721 Maddison Ville",
     "city": "Framishire",
     "state": "WV",
@@ -150,8 +150,8 @@
     "contact": "Jayden Heathcote"
   },
   {
-    "slug": "Konopelski-Group",
-    "name": "Konopelski Group",
+    "value": "Konopelski-Group",
+    "label": "Konopelski Group",
     "address": "476 Minnie Land",
     "city": "Walterhaven",
     "state": "WV",
@@ -160,8 +160,8 @@
     "contact": "Manley Bernhard"
   },
   {
-    "slug": "Metz---Kautzer",
-    "name": "Metz - Kautzer",
+    "value": "Metz---Kautzer",
+    "label": "Metz - Kautzer",
     "address": "240 Hoppe Shoal",
     "city": "Julesshire",
     "state": "FL",
@@ -170,8 +170,8 @@
     "contact": "Kay Simonis"
   },
   {
-    "slug": "Rice-Inc",
-    "name": "Rice Inc",
+    "value": "Rice-Inc",
+    "label": "Rice Inc",
     "address": "264 Jayce Trafficway",
     "city": "South Fleta",
     "state": "NE",
@@ -180,8 +180,8 @@
     "contact": "Catherine McKenzie"
   },
   {
-    "slug": "Franecki---Gaylord",
-    "name": "Franecki - Gaylord",
+    "value": "Franecki---Gaylord",
+    "label": "Franecki - Gaylord",
     "address": "300 Vandervort Stream",
     "city": "Lake Kylechester",
     "state": "ID",
@@ -190,8 +190,8 @@
     "contact": "Eda Hayes"
   },
   {
-    "slug": "Oberbrunner-Block-and-Mills",
-    "name": "Oberbrunner, Block and Mills",
+    "value": "Oberbrunner-Block-and-Mills",
+    "label": "Oberbrunner, Block and Mills",
     "address": "356 Conroy Garden",
     "city": "New Aileen",
     "state": "WY",
@@ -200,8 +200,8 @@
     "contact": "Braulio Little"
   },
   {
-    "slug": "Feil-Dooley-and-Reinger",
-    "name": "Feil, Dooley and Reinger",
+    "value": "Feil-Dooley-and-Reinger",
+    "label": "Feil, Dooley and Reinger",
     "address": "06966 Alfred Ways",
     "city": "East Lucio",
     "state": "OR",
@@ -210,8 +210,8 @@
     "contact": "Pascale Waelchi"
   },
   {
-    "slug": "Leuschke-Smith-and-Conroy",
-    "name": "Leuschke, Smith and Conroy",
+    "value": "Leuschke-Smith-and-Conroy",
+    "label": "Leuschke, Smith and Conroy",
     "address": "604 McKenzie Wall",
     "city": "Immanuelview",
     "state": "SC",

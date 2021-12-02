@@ -7,7 +7,7 @@ import Sidebar from './layout/Sidebar'
 
 export default class App extends Component {
   render() {
-    return (
+    return (      
       <div>
         <Header />
         <Container>

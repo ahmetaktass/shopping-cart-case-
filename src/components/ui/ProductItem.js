@@ -7,7 +7,7 @@ export default function ProductItem({ product }) {
         <img
           src={product.image}
           alt={product.title}
-          className="w-92px h-92px"
+          className="w-92px h-92px object-cover	"
         />
       </div>
       <div className="flex  flex-col mt-2 items-stretch  h-full relative">
