@@ -2,6 +2,7 @@
 
 - git clone git@github.com:ahmetaktass/shopping-cart-case-.git
 - cd shopping-cart-case-
+- npm install
 - npm start
 
 #Demo https://react-shopping-case.herokuapp.com/
