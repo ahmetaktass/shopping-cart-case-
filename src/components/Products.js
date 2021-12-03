@@ -24,14 +24,13 @@ const Content = () => {
     getData()
   }, [])
   return (
-    <div className="h-750px overflow-hidden ">
-      <div className="grid grid-cols-4 mt-4 gap-4 bg-white rounded-lg overflow-hidden">
+    <div className="w-full mt-4  h-1400px overflow-hidden ">
+      <div className="grid grid-cols-4    gap-2 bg-white rounded-lg overflow-hidden">
         {products.length &&
           products.map((product, index) => (
             <ProductItem key={index} product={product} />
           ))}
       </div>
-      son
     </div>
   )
 }

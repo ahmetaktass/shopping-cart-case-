@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import MySelect from './MySelect.js'
 import { components } from 'react-select'
+import '../index.css'
 
 const Content = () => {
   const [optionSelected, setOptionSelected] = useState('')
@@ -52,6 +53,7 @@ const Content = () => {
     setOptionSelected(selected)
   }
   // menuIsOpen / onMenuOpen / onMenuClose
+
   return (
     <MySelect
       options={companies}
@@ -64,6 +66,8 @@ const Content = () => {
       value={optionSelected}
       menuIsOpen={true}
       onMenuOpen={true}
+      className="mt-3"
+      placeholder="Search brand"
     />
   )
 }

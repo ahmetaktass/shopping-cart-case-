@@ -9,3 +9,10 @@
     @apply antialiased;
   }
 }
+.ahmet {
+  text-transform: uppercase;
+  font-family: "Times New Roman", Times, serif;
+}
+.ahmet input {
+  color: dodgerblue;
+}

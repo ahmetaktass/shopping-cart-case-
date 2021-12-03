@@ -20,10 +20,12 @@ module.exports = {
         '60px': '60px',
         '30px': '30px',
         '296px': '296px',
+        '274px': '274px',
         '92px': '92px',
         '124px': '124px',
         '225px': '225px',
-        '750px': '750px',
+        '1400px': '1400px',
+        '300px': '300px',
       },
       lineHeight: {
         'extra-loose': '2.5',
