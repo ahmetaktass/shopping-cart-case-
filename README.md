@@ -1,8 +1,7 @@
 #Kurulum
 
 - git clone git@github.com:ahmetaktass/shopping-cart-case-.git
-- cd shopping-cart
-- cd shopping-app
+- cd shopping-cart-case-
 - npm start
 
 #Demo https://react-shopping-case.herokuapp.com/
