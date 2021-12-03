@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function ProductItem({ product }) {
   return (
-    <div className=" flex flex-col w-124px h-225px     ">
+    <div className=" flex flex-col w-124px h-225px   ">
       <div className="w-full flex justify-center p-4">
         <img
           src={product.image}

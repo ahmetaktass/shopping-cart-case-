@@ -1,4 +1,5 @@
 import Buttons from '../components/Buttons/Buttons'
+import Pagination from '../components/Pagination'
 import Products from '../components/Products'
 
 const Content = () => {
@@ -13,6 +14,7 @@ const Content = () => {
       <div>
         <Products />
       </div>
+      <Pagination />
     </div>
   )
 }
