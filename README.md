@@ -4,4 +4,6 @@
 - cd shopping-cart
 - cd shopping-app
 - npm start
+
+#Demo https://react-shopping-case.herokuapp.com/
 ![localhost_3000_ (8)](https://user-images.githubusercontent.com/56774618/144646410-9119618b-51c6-472a-944e-ae4028188b82.png)
